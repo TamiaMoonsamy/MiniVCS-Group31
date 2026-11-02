@@ -1,0 +1,5 @@
+# Lines starting with # are comments.
+# Ignore log files anywhere in the project:
+*.log
+# Ignore any folder called "build" (the / at the end means folders only):
+build/
